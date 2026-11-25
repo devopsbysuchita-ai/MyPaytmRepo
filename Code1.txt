@@ -1,0 +1,4 @@
+PRINT "What is your name?"
+INPUT NAME$
+PRINT "Hello, "; NAME$
+END
